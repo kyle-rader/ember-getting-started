@@ -11,7 +11,7 @@ module('Integration | Component | rental-listing', function(hooks) {
       image: 'fake.png',
       title: 'A House',
       owner: 'some guy',
-      type: 'single family',
+      category: 'single family',
       city: 'Faketown',
       bedrooms: 3,
     };
